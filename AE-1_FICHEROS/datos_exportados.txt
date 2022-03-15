@@ -1,0 +1,4 @@
+Coche[id=1--- matricula='fwfwF'--- marca='wgGWg'--- modelo='gwGWWg'--- color='gWGWg']
+
+Coche[id=2--- matricula='GopgmGPOG'--- marca='gMPOGpOG'--- modelo='gmeapigomeapg'--- color='egmpGM']
+
